@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidExp</string>
+    <string name="activity_main_tabitem1">实验1</string>
+    <string name="activity_main_tabitem2">实验2</string>
+    <string name="activity_main_tabitem3">实验3</string>
+    <string name="activity_main_tabitem4">实验4</string>
+</resources>
